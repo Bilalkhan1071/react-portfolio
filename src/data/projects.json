@@ -1,0 +1,24 @@
+[
+  {
+    "title": "AWS PDF Chatbot",
+    "imageSrc": "projects/aiIcon.png",
+    "description": "Implemented a Language Model (LLM) by utilizing the LangChain library and fine tuning the pre-trained models as needed.",
+    "skills": ["Python", "OpenAI", "Pinecone", "AWS"],
+    "source": "https://github.com/Bilalkhan1071/LLM"
+  },
+    {
+      "title": "React Admin Dashboard",
+      "imageSrc": "projects/admin.png",
+      "description": "Developed an Admin Dashboard utilizing React and the Material-UI library to replicate a modern and responsive user interface.",
+      "skills": ["React", "MUI", "Node"],
+      "source": "https://github.com/Bilalkhan1071/Dashboard"
+    },
+    {
+      "title": "Random Applications",
+      "imageSrc": "projects/game.png",
+      "description": "A couple of games that I developed using Java and Python including Snake, a Sodoku solver, and a Fantasy Football App.",
+      "skills": ["Java", "Python", "PyGame"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Frontend Developer Intern",
+      "organisation": "Visionet Systems",
+      "startDate": "May, 2023",
+      "endDate": "Oct, 2023",
+      "experiences": ["Boosted user engagement by 30% through responsive UI development with React, TypeScript, and Angular", "Began the conversion of an Excel Web Add-In to a sleek React app using TypeScript and Material UI"],
+      "imageSrc": "history/visionetLogo.png"
+    },
+    {
+      "role": "Fullstack Developer Intern",
+      "organisation": "econommi",
+      "startDate": "May, 2022",
+      "endDate": "Sep, 2022",
+      "experiences": ["Optimized API handling and database queries by 15% using Node.js and Express at a startup", "Achieved 99.5% data accuracy with PostgreSQL-based auditing functions for econommi's database"],
+      "imageSrc": "history/econommi.png"
+    }
+  ]
