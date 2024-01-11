@@ -86,3 +86,10 @@
         padding-right: 0;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .aboutItemText p {
+        font-size: larger;
+        padding-top: 5px;
+    }
+}

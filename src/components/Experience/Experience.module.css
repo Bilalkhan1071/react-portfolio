@@ -92,6 +92,11 @@
   font-weight: 300;
 }
 
+.historyItemDetails li {
+  font-size: 20px;
+  padding: 5px;
+}
+
 .historyItemDetails ul {
   margin-top: 6px;
   list-style-position: inside;
@@ -116,5 +121,15 @@
   .history {
     width: 100%;
     gap: 9px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .historyItemDetails h3 {
+    font-size: 22px;
+  }
+
+  .historyItemDetails li {
+    font-size: 17px;
   }
 }
